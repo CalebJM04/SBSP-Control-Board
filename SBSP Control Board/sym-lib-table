@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ADAR1000") (type "KiCad") (uri "${KIPRJMOD}/Dependencies/ul_ADAR1000ACCZN/KiCADv6") (options "") (descr ""))
+)
