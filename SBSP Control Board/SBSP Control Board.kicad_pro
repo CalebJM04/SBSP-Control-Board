@@ -416,13 +416,25 @@
         "uuid": "f73a4dfd-d850-4db8-8b86-55d3699fcce2"
       }
     ],
-    "used_designators": "U1,#PWR1-7,J1-2,R1-9,C1-7",
+    "used_designators": "U1-4,#PWR1-13,J1-2,R1-11,C1-14",
     "variants": []
   },
   "sheets": [
     [
       "f73a4dfd-d850-4db8-8b86-55d3699fcce2",
       "Root"
+    ],
+    [
+      "f6153936-7c21-4973-8909-65fad74f8cbc",
+      "TX1"
+    ],
+    [
+      "0ca8c086-1cca-4bd6-bc8b-f868728e3be5",
+      "TX2"
+    ],
+    [
+      "11eb7059-1284-4ed5-9807-849a3a183893",
+      "TX4"
     ]
   ],
   "text_variables": {},
