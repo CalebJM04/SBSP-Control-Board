@@ -3971,7 +3971,7 @@
 			)
 		)
 	)
-	(global_label "TX2"
+	(global_label "TX1"
 		(shape input)
 		(at 156.21 107.95 180)
 		(fields_autoplaced yes)

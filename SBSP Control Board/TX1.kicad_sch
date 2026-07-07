@@ -3875,7 +3875,7 @@
 			)
 		)
 	)
-	(global_label "TX1"
+	(global_label "TX2"
 		(shape input)
 		(at 124.46 125.73 180)
 		(fields_autoplaced yes)
@@ -5248,18 +5248,6 @@
 		)
 		(instances
 			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2/0ca8c086-1cca-4bd6-bc8b-f868728e3be5"
-					(reference "#PWR015")
-					(unit 1)
-				)
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2/11eb7059-1284-4ed5-9807-849a3a183893"
-					(reference "#PWR017")
-					(unit 1)
-				)
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2/8788be75-6ca5-41b3-ac83-adad903c036a"
-					(reference "#PWR016")
-					(unit 1)
-				)
 				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2/f6153936-7c21-4973-8909-65fad74f8cbc"
 					(reference "#PWR014")
 					(unit 1)

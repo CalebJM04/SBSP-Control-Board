@@ -3947,7 +3947,7 @@
 			)
 		)
 	)
-	(global_label "TX4"
+	(global_label "TX3"
 		(shape input)
 		(at 152.4 119.38 180)
 		(fields_autoplaced yes)
