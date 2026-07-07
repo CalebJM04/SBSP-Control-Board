@@ -3420,7 +3420,7 @@
 	)
 	(text "TODO:\n\n1. are we having an onboard MCU for this? or are we just setting the control and forgetting about it\n\n2. are we using the det detection pins?\n\n3. add a level shifter for the 1.8v logic\n\n"
 		(exclude_from_sim no)
-		(at 350.52 30.988 0)
+		(at 351.79 38.608 0)
 		(effects
 			(font
 				(size 2.54 2.54)
