@@ -2822,6 +2822,12 @@
 		(uuid "f14a4ac3-6009-4b7a-8d05-3d396d0fc478")
 	)
 	(junction
+		(at 158.75 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5d080c9-d2a1-47ef-b29c-54979d4ee480")
+	)
+	(junction
 		(at 153.67 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3443,6 +3449,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 158.75) (xy 158.75 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b1ecdac-dde9-40e3-9eea-5ea91a348f88")
+	)
+	(wire
+		(pts
 			(xy 270.51 252.73) (xy 273.05 252.73)
 		)
 		(stroke
@@ -3610,6 +3626,16 @@
 			(type default)
 		)
 		(uuid "b6c0b38f-234d-4585-9a90-3366738cb47a")
+	)
+	(wire
+		(pts
+			(xy 158.75 156.21) (xy 158.75 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb9ecf4d-9bad-4779-9ea6-5550c1de16f4")
 	)
 	(wire
 		(pts
@@ -4338,7 +4364,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5506,7 +5532,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6168,7 +6194,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6492,7 +6518,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
