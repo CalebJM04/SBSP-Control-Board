@@ -659,7 +659,7 @@
         "uuid": "f73a4dfd-d850-4db8-8b86-55d3699fcce2"
       }
     ],
-    "used_designators": "U5,J20",
+    "used_designators": "C62-65,R16-25,U5,#PWR2-3,#PWR8,#PWR64-68,J20-21",
     "variants": []
   },
   "sheets": [
