@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RSW_RPUQFNN10_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RSW_RPUQFNN10_")
+        (spec "default")
+    )
+)

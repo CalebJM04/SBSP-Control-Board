@@ -4452,12 +4452,6 @@
 		(uuid "2d697713-6ec4-46ec-8b0a-1e5ca8de0bba")
 	)
 	(junction
-		(at 560.07 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e5b460f-4fa0-47bf-9b76-63336dd0464d")
-	)
-	(junction
 		(at 262.89 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4548,12 +4542,6 @@
 		(uuid "4e1f05a3-8d8d-4054-9e3f-b0d593fe55f3")
 	)
 	(junction
-		(at 560.07 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ec8141e-222a-44c8-81e2-8abc21fb67b0")
-	)
-	(junction
 		(at 227.33 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4588,12 +4576,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "600fadd1-434d-453d-b5d1-ade34a5b9c64")
-	)
-	(junction
-		(at 560.07 205.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6265c386-91a9-440c-886c-27395fd10e17")
 	)
 	(junction
 		(at 560.07 109.22)
@@ -4764,18 +4746,6 @@
 		(uuid "a22ce1b2-8b6c-4abf-9820-4ebc43f8a63e")
 	)
 	(junction
-		(at 560.07 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a723f35b-1301-48ae-a0ee-5bab54e5de7f")
-	)
-	(junction
-		(at 560.07 215.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7368434-7a34-474a-9785-6cb822248ab8")
-	)
-	(junction
 		(at 45.72 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4792,12 +4762,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfb26350-a073-4b1c-9454-9b8ee7d3f7e1")
-	)
-	(junction
-		(at 560.07 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c01b304e-df11-455e-a2cd-56b81aedabc4")
 	)
 	(junction
 		(at 34.29 137.16)
@@ -4836,22 +4800,10 @@
 		(uuid "cf554e38-edc5-48dc-9776-a880bc8040b9")
 	)
 	(junction
-		(at 560.07 185.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d092dddb-dc9d-4732-bb53-36de167b63b9")
-	)
-	(junction
 		(at 279.4 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d933f352-2c0f-428c-b093-ea4612ed5a6d")
-	)
-	(junction
-		(at 560.07 238.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "da36228a-c0fa-48c1-af37-61093eb09a8e")
 	)
 	(junction
 		(at 274.32 128.27)
@@ -4906,12 +4858,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef73b70f-b682-4b1b-9a8a-de95ece8d6f8")
-	)
-	(junction
-		(at 560.07 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f07647cd-aabb-4131-8a69-9ec48973b07c")
 	)
 	(junction
 		(at 25.4 295.91)
@@ -5121,16 +5067,6 @@
 	)
 	(wire
 		(pts
-			(xy 547.37 259.08) (xy 560.07 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11d143e4-47ae-4b35-ae79-0db4b9b11cc4")
-	)
-	(wire
-		(pts
 			(xy 222.25 161.29) (xy 222.25 162.56)
 		)
 		(stroke
@@ -5218,16 +5154,6 @@
 			(type default)
 		)
 		(uuid "1a4e7ba9-8d7c-4ab2-b259-4afde8ff06c0")
-	)
-	(wire
-		(pts
-			(xy 560.07 185.42) (xy 560.07 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a686d5c-61c3-4263-a9f7-3c0ba04960ed")
 	)
 	(wire
 		(pts
@@ -5331,16 +5257,6 @@
 	)
 	(wire
 		(pts
-			(xy 560.07 248.92) (xy 560.07 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "267c970e-def5-4146-b7ca-c50087d2604c")
-	)
-	(wire
-		(pts
 			(xy 45.72 160.02) (xy 52.07 160.02)
 		)
 		(stroke
@@ -5391,26 +5307,6 @@
 	)
 	(wire
 		(pts
-			(xy 547.37 238.76) (xy 560.07 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e9da53d-1261-4c28-892f-f4c08491f629")
-	)
-	(wire
-		(pts
-			(xy 547.37 248.92) (xy 560.07 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ec10dfe-7d5b-47f3-a882-93cf75bdc48d")
-	)
-	(wire
-		(pts
 			(xy 213.36 237.49) (xy 213.36 247.65)
 		)
 		(stroke
@@ -5448,16 +5344,6 @@
 			(type default)
 		)
 		(uuid "3668ff15-daef-4db9-a1ac-9f8fb69732fb")
-	)
-	(wire
-		(pts
-			(xy 547.37 228.6) (xy 560.07 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37182237-1697-4937-8db8-269b88db980d")
 	)
 	(wire
 		(pts
@@ -5581,16 +5467,6 @@
 	)
 	(wire
 		(pts
-			(xy 547.37 185.42) (xy 560.07 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48ee341f-06fd-4076-b923-daef35cbbeb0")
-	)
-	(wire
-		(pts
 			(xy 25.4 262.89) (xy 25.4 265.43)
 		)
 		(stroke
@@ -5671,16 +5547,6 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 223.52) (xy 542.29 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54b0836b-d345-474f-9ed3-6a3a265ca178")
-	)
-	(wire
-		(pts
 			(xy 276.86 175.26) (xy 262.89 175.26)
 		)
 		(stroke
@@ -5691,16 +5557,6 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 233.68) (xy 542.29 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bf8163b-5814-41db-bfb2-16becbf52c4e")
-	)
-	(wire
-		(pts
 			(xy 25.4 316.23) (xy 25.4 318.77)
 		)
 		(stroke
@@ -5708,26 +5564,6 @@
 			(type default)
 		)
 		(uuid "5d8aacec-8811-4bab-89ba-27ae0016cb9c")
-	)
-	(wire
-		(pts
-			(xy 560.07 185.42) (xy 560.07 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e4720a1-1c5f-4538-986a-51b2ec454b41")
-	)
-	(wire
-		(pts
-			(xy 523.24 210.82) (xy 542.29 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "601dc3bb-2a44-4b27-8d19-495e259cfec4")
 	)
 	(wire
 		(pts
@@ -5891,16 +5727,6 @@
 	)
 	(wire
 		(pts
-			(xy 547.37 172.72) (xy 560.07 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "738e95cb-4660-4a5a-bf0b-1c88e6409a96")
-	)
-	(wire
-		(pts
 			(xy 25.4 217.17) (xy 25.4 219.71)
 		)
 		(stroke
@@ -5961,16 +5787,6 @@
 	)
 	(wire
 		(pts
-			(xy 560.07 205.74) (xy 560.07 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b582df8-475f-45d6-82e2-645d3207a9a1")
-	)
-	(wire
-		(pts
 			(xy 247.65 154.94) (xy 243.84 154.94)
 		)
 		(stroke
@@ -5988,16 +5804,6 @@
 			(type default)
 		)
 		(uuid "8009a93a-7a13-4c10-b1ec-26290c99e18c")
-	)
-	(wire
-		(pts
-			(xy 523.24 180.34) (xy 542.29 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "815294db-4d4a-485a-9b0a-252b25b94258")
 	)
 	(wire
 		(pts
@@ -6041,16 +5847,6 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 190.5) (xy 542.29 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82f48260-9c21-4f66-a956-4b2d89e996b6")
-	)
-	(wire
-		(pts
 			(xy 255.27 121.92) (xy 264.16 121.92)
 		)
 		(stroke
@@ -6078,16 +5874,6 @@
 			(type default)
 		)
 		(uuid "85dbfea0-a5ad-4986-a1df-44826d74ccb8")
-	)
-	(wire
-		(pts
-			(xy 547.37 215.9) (xy 560.07 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86b4944b-d803-4f38-a1d2-55ce7d661c31")
 	)
 	(wire
 		(pts
@@ -6168,16 +5954,6 @@
 			(type default)
 		)
 		(uuid "9335e2bc-b2e5-46fa-8a87-edf374b44014")
-	)
-	(wire
-		(pts
-			(xy 523.24 167.64) (xy 542.29 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94685802-7e64-4c7e-9699-3aae627dbf50")
 	)
 	(wire
 		(pts
@@ -6291,16 +6067,6 @@
 	)
 	(wire
 		(pts
-			(xy 560.07 195.58) (xy 560.07 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1bb6adb-3fd2-45de-8b91-d5fa69dd4235")
-	)
-	(wire
-		(pts
 			(xy 25.4 237.49) (xy 25.4 240.03)
 		)
 		(stroke
@@ -6328,16 +6094,6 @@
 			(type default)
 		)
 		(uuid "a5ae54a0-6675-420d-8ca7-f5fa11175faf")
-	)
-	(wire
-		(pts
-			(xy 523.24 200.66) (xy 542.29 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5aeecea-1bdf-4537-b2ac-cf66b9ab10e6")
 	)
 	(wire
 		(pts
@@ -6661,26 +6417,6 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 254) (xy 542.29 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c85dcf28-add2-4bee-bd13-92c663e1ae61")
-	)
-	(wire
-		(pts
-			(xy 547.37 205.74) (xy 560.07 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c92422fc-7c7c-4fab-a5ee-3dea7dd67160")
-	)
-	(wire
-		(pts
 			(xy 266.7 116.84) (xy 266.7 121.92)
 		)
 		(stroke
@@ -6731,16 +6467,6 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 243.84) (xy 542.29 243.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3cf9b05-7530-47b1-90ee-382dc532b32d")
-	)
-	(wire
-		(pts
 			(xy 547.37 162.56) (xy 560.07 162.56)
 		)
 		(stroke
@@ -6751,16 +6477,6 @@
 	)
 	(wire
 		(pts
-			(xy 560.07 228.6) (xy 560.07 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6fbf389-4ec9-4852-8a27-957fa1af1c65")
-	)
-	(wire
-		(pts
 			(xy 204.47 204.47) (xy 243.84 204.47)
 		)
 		(stroke
@@ -6768,16 +6484,6 @@
 			(type default)
 		)
 		(uuid "daa6be9d-cba0-44f0-acad-b1cfc22d8531")
-	)
-	(wire
-		(pts
-			(xy 547.37 195.58) (xy 560.07 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dae45537-5b15-4e54-a467-ed1da6c0a31e")
 	)
 	(wire
 		(pts
@@ -6818,16 +6524,6 @@
 			(type default)
 		)
 		(uuid "dea7ae5d-805c-49aa-ba73-6e6eb48c383c")
-	)
-	(wire
-		(pts
-			(xy 560.07 215.9) (xy 560.07 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df1222fb-e630-494a-8a5e-4c2adf51f170")
 	)
 	(wire
 		(pts
@@ -7008,16 +6704,6 @@
 			(type default)
 		)
 		(uuid "ef4ee7cf-1e51-4d12-b3b2-065235676924")
-	)
-	(wire
-		(pts
-			(xy 560.07 238.76) (xy 560.07 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f207be90-7c9d-4e05-96ec-da140a23b555")
 	)
 	(wire
 		(pts
@@ -7727,30 +7413,6 @@
 			)
 		)
 	)
-	(global_label "OUT15"
-		(shape input)
-		(at 523.24 243.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "16512b15-7dab-4878-9743-c875f95e23f6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.2072 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "OUT7"
 		(shape input)
 		(at 523.24 157.48 180)
@@ -7764,54 +7426,6 @@
 		(uuid "17681663-afe6-41a9-84ef-79712dacbbf4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 515.4167 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "OUT13"
-		(shape input)
-		(at 523.24 223.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1e4b7498-b493-4af5-9e75-ecf53b30dfe2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.2072 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "OUT11"
-		(shape input)
-		(at 523.24 200.66 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "225d361d-7540-4557-8471-596b97c09912")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.2072 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7895,54 +7509,6 @@
 			)
 		)
 	)
-	(global_label "OUT16"
-		(shape input)
-		(at 523.24 254 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6b0d20d1-ce13-4b88-9ffc-7dbbb32fa8dd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.2072 254 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "OUT8"
-		(shape input)
-		(at 523.24 167.64 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "708158a5-d088-4e6e-bc13-8e4aad4393d8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 515.4167 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "OUT6"
 		(shape input)
 		(at 523.24 147.32 180)
@@ -7991,30 +7557,6 @@
 			)
 		)
 	)
-	(global_label "OUT9"
-		(shape input)
-		(at 523.24 180.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8677f5af-a899-42a8-a203-ec4b33cf1da3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 515.4167 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "ADAR_SDO_STAGE1_1V8"
 		(shape input)
 		(at 96.52 45.72 0)
@@ -8052,30 +7594,6 @@
 		(uuid "adf314ce-5fba-4180-94d7-ea23d56944cd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 25.2572 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "OUT10"
-		(shape input)
-		(at 523.24 190.5 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b45c3333-2dd6-4b9a-a14d-e3beac4f457e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.2072 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8183,30 +7701,6 @@
 			)
 		)
 	)
-	(global_label "OUT12"
-		(shape input)
-		(at 523.24 210.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e77cdc7d-55a9-4a14-a932-60688295d4e0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.2072 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "OUT2"
 		(shape input)
 		(at 523.24 104.14 180)
@@ -8220,30 +7714,6 @@
 		(uuid "f83ec26b-c15d-4635-a45e-adfd88ead680")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 515.4167 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "OUT14"
-		(shape input)
-		(at 523.24 233.68 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fc8573ba-6044-4d83-b85c-185053ad518c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.2072 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8577,7 +8047,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 560.07 259.08 0)
+		(at 560.07 172.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8588,7 +8058,7 @@
 		(fields_autoplaced yes)
 		(uuid "0aedbfa1-6477-4647-9a5f-1a1666af2b45")
 		(property "Reference" "#PWR05"
-			(at 560.07 265.43 0)
+			(at 560.07 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8599,7 +8069,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 560.07 264.16 0)
+			(at 560.07 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8609,7 +8079,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 560.07 259.08 0)
+			(at 560.07 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8620,7 +8090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 560.07 259.08 0)
+			(at 560.07 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8631,7 +8101,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 560.07 259.08 0)
+			(at 560.07 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9371,252 +8841,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 233.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "341362f1-a4b7-4012-9e95-d0c481b9b087")
-		(property "Reference" "J15"
-			(at 551.18 232.7031 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 235.2431 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e09616d0-b2e1-46ce-a888-5c0012b602fd")
-		)
-		(pin "2"
-			(uuid "fe7b1e8e-5afe-4ae1-b125-33d45e3d4bbe")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 254 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "38ffac24-78cb-4177-a31f-2fecb20c7a9f")
-		(property "Reference" "J17"
-			(at 551.18 253.0231 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 255.5631 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 254 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 254 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 254 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0cd4cfde-c43f-4dde-82d2-da1ab7439934")
-		)
-		(pin "2"
-			(uuid "5af4a035-b3b7-4f8d-a230-de972fbd629b")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 190.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "393e14b6-0c06-42ab-b491-8d2514ff8606")
-		(property "Reference" "J11"
-			(at 551.18 189.5231 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 192.0631 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b25bba79-9092-4ad5-89ae-4e2d99bb4a08")
-		)
-		(pin "2"
-			(uuid "6c728953-1ed0-4e0e-bae9-874455f3889c")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 207.01 250.19 0)
 		(unit 1)
@@ -9771,88 +8995,6 @@
 			(project "SBSP Control Board"
 				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
 					(reference "R22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 167.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "42174e8a-095c-443a-a524-89fec40a0ab3")
-		(property "Reference" "J9"
-			(at 551.18 166.6631 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 169.2031 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a6d6c9b0-78dc-4fb5-868d-ea6e28cf7e9f")
-		)
-		(pin "2"
-			(uuid "287b2670-3819-4214-9996-aed6bcb1c74d")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -11485,88 +10627,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 180.34 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "79ba2265-ce9c-475b-9e3e-89cf3871a933")
-		(property "Reference" "J10"
-			(at 551.18 179.3631 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 181.9031 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d4744ed6-5bfa-46d2-905b-81d0aec572f8")
-		)
-		(pin "2"
-			(uuid "2972e095-7c69-4377-ac27-5790c9f5a74a")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x20_Socket")
 		(at 199.39 165.1 180)
 		(unit 1)
@@ -12762,88 +11822,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 210.82 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a646d1e-2619-4808-aea0-a296228b6ce7")
-		(property "Reference" "J13"
-			(at 551.18 209.8431 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 212.3831 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b4733da4-fc7d-4123-91ce-a4aa4e3f0332")
-		)
-		(pin "2"
-			(uuid "23728a5e-a7c7-4ff3-97cf-123ce3a5c440")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 26.67 63.5 90)
 		(unit 1)
@@ -12996,88 +11974,6 @@
 			(project "SBSP Control Board"
 				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
 					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 223.52 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5d8c9ae-cc1a-41f0-b75d-410aab135af5")
-		(property "Reference" "J14"
-			(at 551.18 222.5431 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 225.0831 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ebcf5e33-a7b8-48e5-bf70-5c79df0383d5")
-		)
-		(pin "2"
-			(uuid "8cadd354-4012-41af-b214-1f9b6abe1cd6")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -13244,88 +12140,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 243.84 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aded9da1-9169-4bf2-8984-1b0303c92ee4")
-		(property "Reference" "J16"
-			(at 551.18 242.8631 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 245.4031 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fec20c37-5200-4cb0-9e8d-65de16d2ae6e")
-		)
-		(pin "2"
-			(uuid "ecf809e5-b708-47a7-8b60-021f732f4552")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 91.44 163.83 0)
 		(unit 1)
@@ -13482,88 +12296,6 @@
 			(project "SBSP Control Board"
 				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
 					(reference "R19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 547.37 200.66 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b20b4684-0300-4105-b0e5-bb064de6e167")
-		(property "Reference" "J12"
-			(at 551.18 199.6831 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 551.18 202.2231 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
-			(at 547.37 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 547.37 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 547.37 200.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f99f15bf-f5fd-4c8f-8148-4830efc6befe")
-		)
-		(pin "2"
-			(uuid "66604a4d-f5d4-4dff-ad67-71e638a6de54")
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -15292,156 +14024,7 @@
 		)
 	)
 	(sheet
-		(at 312.42 59.69)
-		(size 26.67 19.05)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "0ca8c086-1cca-4bd6-bc8b-f868728e3be5")
-		(property "Sheetname" "TX2"
-			(at 312.42 58.9784 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "TX2.kicad_sch"
-			(at 312.42 79.3246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 379.73 59.69)
-		(size 26.67 19.05)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "11eb7059-1284-4ed5-9807-849a3a183893")
-		(property "Sheetname" "TX4"
-			(at 379.73 58.9784 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "TX4.kicad_sch"
-			(at 379.73 79.3246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 345.44 59.69)
-		(size 26.67 19.05)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "8788be75-6ca5-41b3-ac83-adad903c036a")
-		(property "Sheetname" "TX3"
-			(at 345.44 58.9784 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "TX3.kicad_sch"
-			(at 345.44 79.3246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Field2" ""
-			(at 345.44 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "SBSP Control Board"
-				(path "/f73a4dfd-d850-4db8-8b86-55d3699fcce2"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 278.13 59.69)
+		(at 167.64 31.75)
 		(size 26.67 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15457,7 +14040,7 @@
 		)
 		(uuid "f6153936-7c21-4973-8909-65fad74f8cbc")
 		(property "Sheetname" "TX1"
-			(at 278.13 58.9784 0)
+			(at 167.64 31.0384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15468,7 +14051,7 @@
 			)
 		)
 		(property "Sheetfile" "TX1.kicad_sch"
-			(at 278.13 79.3246 0)
+			(at 167.64 51.3846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

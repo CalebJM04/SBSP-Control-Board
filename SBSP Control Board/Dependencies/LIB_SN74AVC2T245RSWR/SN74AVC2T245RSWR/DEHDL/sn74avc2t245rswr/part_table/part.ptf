@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74AVC2T245RSWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Texas Instruments", "SN74AVC2T245RSWR" (!) = "", "RSW(RPUQFNN10)", "Other", "595-SN74AVC2T245RSWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74AVC2T245RSWR?qs=59Rn2Bt6jP10ddXtSUJOPw%3D%3D", "Dual-Bit, 2-DIR pin Dual-Supply Bus Transceiver w/ Configurable Voltage Translation, 3-State Output", "http://www.ti.com/lit/ds/symlink/sn74avc2t245.pdf"
+END_PART
+
+END.

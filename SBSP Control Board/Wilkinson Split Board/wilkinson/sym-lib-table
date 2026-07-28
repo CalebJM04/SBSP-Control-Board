@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "level shift") (type "KiCad") (uri "/Users/calebmurray/Documents/GitHub/SBSP-Control-Board/SBSP Control Board/Dependencies/LIB_SN74AVC2T245RSWR/SN74AVC2T245RSWR/KiCad") (options "") (descr ""))
+)

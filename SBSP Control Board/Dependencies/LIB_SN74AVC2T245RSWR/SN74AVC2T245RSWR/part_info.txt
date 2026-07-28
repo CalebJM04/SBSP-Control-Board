@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74AVC2T245RSWR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=10
+Version=1.2
+Released=2016-09-22 10:07:04
+Downloaded=2026-07-28 18:18:11
+3D=Y

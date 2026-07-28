@@ -1,0 +1,16 @@
+.SN74AVC2T245RSWR :1 ;Dual-Bit, 2-DIR pin Dual-Supply Bus Transceiver w/ Configurable Voltage Translation, 3-State Output
+RSW_RPUQFNN10_
+*STM IC
+*NGS
+*PLB 1="DIR2" 2="'OE2'" 3="GND" 4="B2" 5="B1" 6="VCCB" 7="VCCA" 8="A1" 9="A2" 10="DIR1"
+*MXP 10
+*DFN SN74AVC2T245RSWR
+~!Mouser Part Number (595-SN74AVC2T245RSWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74AVC2T245RSWR?qs=59Rn2Bt6jP10ddXtSUJOPw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74AVC2T245RSWR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/sn74avc2t245.pdf)
+~!Height (-)
+~!3D_Model (SN74AVC2T245RSWR)
+SN74AVC2T245RSWR
+1.1!U 2.1!U 3.1!G 4.1!U 5.1!U 6.1!P 7.1!P 8.1!U 9.1!U 10.1!U 

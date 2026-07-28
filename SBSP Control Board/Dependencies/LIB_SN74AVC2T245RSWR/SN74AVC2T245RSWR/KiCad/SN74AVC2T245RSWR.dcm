@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AVC2T245RSWR
+D Dual-Bit, 2-DIR pin Dual-Supply Bus Transceiver w/ Configurable Voltage Translation, 3-State Output
+K
+F http://www.ti.com/lit/ds/symlink/sn74avc2t245.pdf
+$ENDCMP
+#
+#End Doc Library
