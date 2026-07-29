@@ -3851,16 +3851,6 @@
 		)
 		(uuid "ff3bbc7c-46d8-4490-ad43-2223497fc0bd")
 	)
-	(label "PLL_IN"
-		(at 124.46 125.73 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d49798ad-7b54-41a2-8fbb-06e36a9b9c79")
-	)
 	(global_label "ADAR_SDO_STAGE2_1V8"
 		(shape input)
 		(at 180.34 77.47 0)
@@ -4026,6 +4016,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "PLL_IN"
+		(shape input)
+		(at 124.46 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a67ad28c-aa82-436a-ba31-09edfe56d4e4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 115.2457 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)

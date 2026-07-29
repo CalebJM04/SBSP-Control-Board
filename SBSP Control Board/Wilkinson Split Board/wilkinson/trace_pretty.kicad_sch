@@ -5822,7 +5822,7 @@
 	)
 	(text "input from the PLL output"
 		(exclude_from_sim no)
-		(at 24.892 95.504 0)
+		(at 23.114 95.504 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7213,6 +7213,16 @@
 			(type default)
 		)
 		(uuid "3a119885-a44e-4a9d-bf76-2bc4fef64311")
+	)
+	(wire
+		(pts
+			(xy 243.84 73.66) (xy 241.3 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3af1c38b-052e-46f5-be5a-a09eb0c56078")
 	)
 	(wire
 		(pts
@@ -9206,6 +9216,16 @@
 	)
 	(wire
 		(pts
+			(xy 554.99 77.47) (xy 557.53 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e830a354-4875-4671-8693-ea15cf1f3502")
+	)
+	(wire
+		(pts
 			(xy 504.19 156.21) (xy 506.73 156.21)
 		)
 		(stroke
@@ -9366,6 +9386,16 @@
 	)
 	(wire
 		(pts
+			(xy 562.61 82.55) (xy 562.61 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6ea8ada-1b2b-421e-8bd1-e0a9d468edb1")
+	)
+	(wire
+		(pts
 			(xy 270.51 236.22) (xy 299.72 236.22)
 		)
 		(stroke
@@ -9403,6 +9433,16 @@
 			(type default)
 		)
 		(uuid "f942a623-edae-47aa-bdbb-06f0fda5fa72")
+	)
+	(wire
+		(pts
+			(xy 251.46 73.66) (xy 254 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa230685-75b4-480d-a487-382a87d58997")
 	)
 	(wire
 		(pts
@@ -10114,16 +10154,6 @@
 		)
 		(uuid "d583b5d0-5e39-43cc-a1e0-d961cdaeac8e")
 	)
-	(label "PLL_IN"
-		(at 45.72 96.52 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d67635ee-eb95-41f8-9c74-f10dcca6083b")
-	)
 	(label "CREG2"
 		(at 69.85 142.24 180)
 		(effects
@@ -10488,6 +10518,30 @@
 			)
 		)
 	)
+	(global_label "PLL_IN"
+		(shape input)
+		(at 254 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "85d73140-9a1c-4dce-b73e-733640d5b6e4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 263.2143 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "OUT1"
 		(shape input)
 		(at 528.32 96.52 180)
@@ -10536,6 +10590,30 @@
 			)
 		)
 	)
+	(global_label "PLL_IN"
+		(shape input)
+		(at 45.72 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0b430b8-825f-43e1-aa1b-adcee4c2f821")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5057 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "OUT2"
 		(shape input)
 		(at 528.32 106.68 180)
@@ -10549,6 +10627,54 @@
 		(uuid "a42d6b94-7293-405e-be83-46ecd9c5c270")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 520.4967 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "PLL_IN"
+		(shape input)
+		(at 241.3 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bd82c5fc-9d37-4460-b3e0-f52ad86f98db")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.0857 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "PLL_IN"
+		(shape input)
+		(at 554.99 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bdb18995-1393-4924-94f2-ef96c1a7f0db")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 545.7757 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11886,6 +12012,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 247.65 73.66 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "279314c0-0e37-4351-998f-08fd50949c91")
+		(property "Reference" "R45"
+			(at 247.65 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 247.65 69.85 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 247.65 75.438 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 247.65 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "41ae910a-07f3-40b8-8cab-1bad6c903b94")
+		)
+		(pin "1"
+			(uuid "617febcf-50ff-4b7b-b936-6975420088bf")
+		)
+		(instances
+			(project "trace_pretty"
+				(path "/76e8d6dc-1e9d-412e-b6a2-7cc6673d2c89"
+					(reference "R45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 322.58 144.78 0)
 		(unit 1)
@@ -12676,6 +12882,88 @@
 			(project "trace_pretty"
 				(path "/76e8d6dc-1e9d-412e-b6a2-7cc6673d2c89"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_Coaxial")
+		(at 562.61 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "434197d2-cdf7-45d8-b47b-4ce8fb214185")
+		(property "Reference" "J20"
+			(at 566.42 76.4931 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 566.42 79.0331 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
+			(at 562.61 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 562.61 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 562.61 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2bba643b-9cdb-4acf-a025-9108fda575ba")
+		)
+		(pin "2"
+			(uuid "bb074967-43a6-4d2a-91f1-7295131c2294")
+		)
+		(instances
+			(project "trace_pretty"
+				(path "/76e8d6dc-1e9d-412e-b6a2-7cc6673d2c89"
+					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -16708,6 +16996,84 @@
 			(project "trace_pretty"
 				(path "/76e8d6dc-1e9d-412e-b6a2-7cc6673d2c89"
 					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 562.61 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a46e8df1-e779-42bb-8b68-481e6880e461")
+		(property "Reference" "#PWR043"
+			(at 562.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 562.61 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 562.61 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 562.61 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 562.61 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b2ee3afa-3fe1-4cdc-96b7-a031ba5b2275")
+		)
+		(instances
+			(project "trace_pretty"
+				(path "/76e8d6dc-1e9d-412e-b6a2-7cc6673d2c89"
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
