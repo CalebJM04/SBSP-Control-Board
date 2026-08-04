@@ -5750,6 +5750,16 @@
 		)
 		(uuid "24a880fa-4a66-44e9-9b66-1f4cbd0be4fe")
 	)
+	(text "going to need to go in and check all the power nets.\n\n+3.3VDC = AVDD/AVDD3\n\n-5VDC = AVDD2\n\n-3.3VDC = AVDD1"
+		(exclude_from_sim no)
+		(at 319.024 192.786 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "53107ce8-9a5d-4eb4-91ae-38974e8dc554")
+	)
 	(text "DNP"
 		(exclude_from_sim no)
 		(at 114.554 163.576 0)
